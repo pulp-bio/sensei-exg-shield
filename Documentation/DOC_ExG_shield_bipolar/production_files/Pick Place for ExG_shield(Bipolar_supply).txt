@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\s-fre\Github\biogap-exg-shield\ExG_shield_pcb\Project Outputs for ExG_shield\production_files_unipolar\Pick Place for ExG_shield(Bipolar_supply).txt
+C:\Users\s-fre\Github\biogap_public\submodules\sensei-exg-shield\Hardware\ExG_shield_pcb\Project Outputs for ExG_shield\production_files\Pick Place for ExG_shield(Bipolar_supply).txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       28.08.24
-Time:       15:16
-Revision:   Not in VersionControl
+Date:       20.04.26
+Time:       11:31
+Revision:   176c82a5b923655744e22cf0253c745a8d6a8436
 Variant:    Bipolar_supply
 Units used: mm
 
