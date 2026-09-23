@@ -4,13 +4,15 @@ C:\Users\s-fre\Github\biogap_public\submodules\sensei-exg-shield\Hardware\ExG_sh
 ========================================================================================================================
 File Design Information:
 
-Date:       20.04.26
-Time:       11:31
-Revision:   176c82a5b923655744e22cf0253c745a8d6a8436
+Date:       23.09.26
+Time:       15:21
+Revision:   2b93922e15d728f1d89c660e4920cf7fbd624bfc
 Variant:    Bipolar_supply
 Units used: mm
 
 Designator Comment                   Layer       Footprint                       Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                  
+U5         SN74AUP2G125YZPR          BottomLayer YZP0008ADAD                     12.5750      1.1250       270      "Low-Power Dual Bus Buffer Gate With 3-State Outputs, YZP0008ADAD, LARGE T&R"                                                                
+C43        CL05A104KA5NNNC           BottomLayer FP-CL278-IPC_C                  10.5000      0.8750       180      "Cap Ceramic 100nF 25V X5R ±10% SMD 0402 +85°C Paper T/R"                                                                                    
 J1         DF52-2S-0.8H_21_          BottomLayer DF522S08H21                     9.9750       25.6400      0        Connector                                                                                                                                    
 J2         DF52-2S-0.8H_21_          BottomLayer DF522S08H21                     14.2750      25.6400      0        Connector                                                                                                                                    
 J7         DF52-2S-0.8H_21_          BottomLayer DF522S08H21                     5.6750       25.6400      0        Connector                                                                                                                                    
